@@ -1,2 +1,2 @@
 # SelfSupervisedSL
-Code for "Self-Supervised Joint Learning of Patterns and Matching for Structured Light Depth Estimation
+This is a placeholder; code is coming soon, and will be released before the presentation date.  
